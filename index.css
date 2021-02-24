@@ -1,0 +1,16 @@
+.avatar{
+  width: 40px;
+  height: 40px;
+  background-color:blue;
+  color: white;
+  text-align: center;
+  border-radius: 50%;
+  margin: auto;
+  margin-top:15px ;
+  text-justify: auto;
+  
+}
+.avatar text{
+margin-top: 13px;
+}
+
